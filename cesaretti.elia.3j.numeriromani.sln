@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cesaretti.elia.3j.numeriromani", "cesaretti.elia.3j.numeriromani\cesaretti.elia.3j.numeriromani.csproj", "{31FAD038-E9DC-4B09-919A-A154C5895FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FAD038-E9DC-4B09-919A-A154C5895FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FAD038-E9DC-4B09-919A-A154C5895FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FAD038-E9DC-4B09-919A-A154C5895FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FAD038-E9DC-4B09-919A-A154C5895FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA18698B-9A94-417A-BEE0-03CD2B3E5D90}
+	EndGlobalSection
+EndGlobal
